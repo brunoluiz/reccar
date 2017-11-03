@@ -2558,10 +2558,14 @@
 		#header input[type="submit"],
 		#header input[type="reset"],
 		#header input[type="button"],
-		#header .button {
+		#header .button:not(.alt){
 			background: #ffffff;
 			color: #544d55;
 		}
+			#header .button:hover {
+				background: rgba(224, 224, 224, 0.15);
+				color: #ffffff;
+			}
 
 		#header .logo {
 			background: #4eb980;
