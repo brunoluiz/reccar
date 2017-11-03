@@ -2614,7 +2614,7 @@
 			and a negative margin (to move everything up a bit).
 		*/
 
-		margin-top: -260px;
+		margin-top: -400px;
 		padding: calc(460px + 6em) 0 10em 0;
 		position: relative;
 		text-align: center;
@@ -2854,7 +2854,7 @@
 			#footer {
 				background-image: url("images/bottom-1600.svg");
 				background-size: 1600px 230px;
-				margin-top: -100px;
+				margin-top: -180px;
 				padding: calc(230px + 4em) 0 6em 0;
 			}
 
@@ -3024,7 +3024,7 @@
 			#footer {
 				background-image: url("images/bottom-1280.svg");
 				background-size: 1280px 184px;
-				margin-top: -75px;
+				margin-top: -150px;
 				padding: calc(184px + 2em) 0 2em 0;
 			}
 
